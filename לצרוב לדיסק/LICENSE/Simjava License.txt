@@ -1,0 +1,175 @@
+LICENCE CONDITIONS
+ 
+ 1	Ownership
+ 
+ 1.1	Edinburgh is the owner and proprietor of copyright, database right and all other 
+ intellectual property rights in and to SOFTWARE and related documentation.
+ 
+ 1.2	SOFTWARE is confidential and proprietary to Edinburgh and Edinburgh retains title 
+ and ownership of SOFTWARE and related documentation at all times. All copies of 
+ SOFTWARE and related documentation are the property of Edinburgh regardless of 
+ the medium in which such copies may exist. 
+ 
+ 1.3	The User undertakes to adopt any security measures needed to protect Edinburgh's 
+ copyright, database right and other intellectual property rights in SOFTWARE and 
+ related documentation and undertakes to take all reasonable steps to ensure that no 
+ unauthorised use is made of SOFTWARE and related documentation.
+ 
+ 2	Licence
+ 
+ 2.1	Subject to the conditions of this Licence Edinburgh grants to the User a limited non-
+ exclusive, non-transferable, world-wide, royalty-free licence to use the SOFTWARE, 
+ without the right to sub-licence, on computers within the possession or control of the 
+ User and to make any necessary copies for back-up. 
+ 
+ 2.2	The User undertakes to use SOFTWARE and related documentation only for internal, 
+ non-commercial, non-profit educational and research purposes.
+ 
+ 2.3	The User may disclose SOFTWARE only to those of its employees who have a need 
+ to know and access SOFTWARE provided that (i) such employee's use of 
+ SOFTWARE takes place exclusively on computers controlled by the User and (ii) the 
+ User has appropriate written agreements with such employees to enable the User to 
+ comply with the conditions of this Licence.
+ 
+ 3	Licence Restrictions
+ 
+ 3.1	The User may, for internal use only, enhance, modify, expand and create derivative 
+ works of the SOFTWARE and may, for internal use only, merge or incorporate in 
+ whole or in part the SOFTWARE into third party owned computer code. Any and all 
+ such incorporations shall include a text file containing the terms of this licence. Any 
+ and all such modifications shall be considered part of the SOFTWARE and shall be 
+ subject to the terms of this licence. 
+ 
+ 3.2	The User may not translate, reverse engineer, decompile, disassemble, modify or 
+ create derivative works based on SOFTWARE except as expressly permitted by law 
+ or by this Licence.
+ 
+ 3.3	The User may not rent, lease, sublicense, sell, assign, pledge, transfer or otherwise 
+ dispose of SOFTWARE, on a temporary or permanent basis, without the prior written 
+ consent of Edinburgh and subject to any conditions imposed by the Edinburgh.  
+ 
+ 4	Term 
+ 
+ 4.1	Subject to condition 4.2 the licence shall be for an initial period of Twelve Months 
+ from the date the User accepted these conditions and shall remain in force thereafter 
+ unless and until terminated in accordance with the terms of condition 4.2.
+ 
+ 4.2	This licence may be terminated by:
+ 
+ 4.1.1	the User at any time by destroying its copy of SOFTWARE together with 
+ all copies in any form and notifying Edinburgh in writing of such 
+ destruction; and / or
+ 
+ 4.1.2	Edinburgh at any time by notice in writing to the User if the User fails to 
+ comply with any material term or condition of this licence provided that 
+ the User has not cured the failure to comply in all material respects within 
+ 60 days of the date of the User's receipt of such notice.  
+ 
+ 4.3	The User agrees upon expiry or termination of this licence to cease use immediately 
+ of the SOFTWARE and to destroy forthwith its copy of SOFTWARE together with 
+ all copies in any form. Such termination shall be without prejudice to any claim 
+ which Edinburgh may have for damages and/or otherwise.
+ 
+ 5	Acknowledgement
+ 
+ 5.1	If the User publishes any papers the content of which has in way involved or 
+ benefited from the use of SOFTWARE, then the User must include in such 
+ publication a written acknowledgement that SOFTWARE was used, that 
+ SOFTWARE is the property of the University Court of the University of Edinburgh 
+ and that SOFTWARE was used under licence from Edinburgh. 
+ 
+ 6.	No Maintenance
+ 
+ 6.1 Edinburgh is not obliged to provide any maintenance, fault correction, patches, 
+ technical support or updates to the User for SOFTWARE.
+ 
+ 7	Disclaimer of Warranty and Limitation of Liability
+ 
+ 7.1	EDINBURGH GIVES NO WARRANTY TO THE USER THAT 
+ SOFTWARE IS FREE FROM DEFECTS OR FAULTS. SOFTWARE IS 
+ PROVIDED"AS IS" WITHOUT ANY EXPRESS OR IMPLIED 
+ WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED 
+ WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A 
+ PARTICULAR PURPOSE. EDINBURGH MAKES NO 
+ REPRESENTATION ABOUT THE SUITABILITY OF SOFTWARE FOR 
+ ANY PURPOSE.
+  
+ 7.2	TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT 
+ SHALL EDINBURGH AND / OR ITS EMPLOYEES BE LIABLE FOR 
+ ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+ CONSEQUENTIAL LOSS AND / OR DAMAGES OF ANY KIND 
+ WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, 
+ PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF 
+ USE, DATA, OR PROFITS; FAILURE TO MAKE ANTICIPATED 
+ SAVINGS; COSTS OF WASTED TIME; COSTS OF MISSED BUSINESS 
+ OPPORTUNITIES; GOODWILL; OR BUSINESS INTERRUPTION) 
+ HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
+ WHETHER IN CONTRACT, STRICT LIABILITY, OR DELICT 
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY 
+ OUT OF THE USE OF, OR INABILITY TO USE, THIS SOFTWARE, 
+ EVEN IF SUCH WAS REASONABLY FORESEEABLE OR IF 
+ EDINBURGH AND / OR ITS EMPLOYEES WERE ADVISED OF THE 
+ POSSIBILITY OF SUCH LOSS AND / OR DAMAGE. EDINBURGH DOES 
+ NOT EXCLUDE LIABILITY FOR DEATH OR PERSONAL INJURY 
+ CAUSED BY THE NEGLICENCE OF EDINBURGH OR ITS 
+ EMPLOYEES.   
+ 
+ 8	No waiver
+ 
+ 8.1	Failure by Edinburgh to exercise or enforce any rights in this licence shall not be 
+ deemed to be a waiver of any such right nor operate so as to bar the exercise or 
+ enforcement thereof at any time or times thereafter.
+ 
+ 9	Indemnification
+ 
+ 9.1	The User agrees to indemnify and keep indemnified at all times Edinburgh on 
+ demand against any liability, loss or damage incurred by Edinburgh which arises 
+ directly or indirectly out of any breach of any of the undertakings or obligations 
+ on the part of the User contained in this licence or in respect of the use of 
+ SOFTWARE by the User howsoever arising (save for such liability, loss or 
+ damages directly and solely caused by the wilful negligence of Edinburgh).
+ 
+ 10	Notices
+ 
+ 10.1	Any notice shall be deemed given when received by the other party.
+ 
+ 11	Entire Licence and Severability
+ 
+ 11.1	This licence constitutes the entire agreement between Edinburgh and the User 
+ with respect to the subject matter hereof and supersedes all prior written or oral 
+ understandings, communications or agreements. This licence may be modified 
+ only by written agreement duly signed by authorised representatives of both 
+ Edinburgh and the User.
+ 
+ 11.2	If any part of the conditions or exclusions contained in this licence is held to be 
+ void or unenforceable, such part shall be deemed to be deleted from this licence 
+ and the remainder of the provision in question shall continue in full force and 
+ effect.
+ 12	Employee authorisation warranty
+ 
+ 12.1	If a person who is an employee completes this Licence and the SOFTWARE is to 
+ be used for the purposes of the business in which that person is employed then the 
+ person completing the Licence warrants to Edinburgh that s/he is authorised to 
+ enter into this Licence.
+ 
+ 13	Use and Export Control
+ 
+ 13.1	THE SOFTWARE MUST NOT BE
+ 
+ 13.1.1	EXPORTED TO ANY COUNTRY ON WHICH EXPORT 
+ RESTRICTIONS ARE CURRENTLY IMPOSED BY ANY 
+ LEGISLATION, REGULATIONS, ORDERS OR OTHER 
+ RESTRICTIONS MADE FROM TIME TO TIME BY EITHER THE 
+ UNITED KINGDOM OR THE EUROPEAN UNION; AND / OR
+ 
+ 13.1.2	USED (IN WHOLE OR PART) CONTRARY TO ANY 
+ RESTRICTION ON USE IMPOSED BY ANY LEGISLATION, 
+ REGULATIONS, ORDERS OR OTHER RESTRICTIONS MADE 
+ FROM TIME TO TIME BY EITHER THE UNITED KINGDOM OR 
+ THE EUROPEAN UNION. 
+ 
+ 14	Governing Law
+ 
+ 14.1	This licence shall be governed by and construed in accordance with the law of 
+ Scotland and the parties hereby prorogate the exclusive jurisdiction of the courts 
+ in Scotland.

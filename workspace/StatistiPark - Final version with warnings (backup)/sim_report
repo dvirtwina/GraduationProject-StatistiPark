@@ -1,0 +1,23 @@
+############################################################
+#                                                          #
+#                    SIMULATION REPORT                     #
+#                                                          #
+############################################################
+
+Version: SimJava 2.0
+
+Simulation date:         July 19, 2018
+Simulation start time:   2:20:16 PM IDT
+Simulation end time:     2:20:16 PM IDT
+
+############################################################
+#            Overall simulation run information            #
+############################################################
+
+Total simulated time:    192.1730650436525
+Total transient time:    0.0
+Total steady state time: 192.1730650436525
+Transient condition:     None
+Termination condition:   180.0 units of elapsed simulated time
+Output analysis method:  None
+
